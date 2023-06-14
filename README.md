@@ -1,2 +1,5 @@
-Here, this resume has been developed using HTML,CSS and bootstrap during my learning periods
+
+A Simple Resume developed using HTML, CSS , Bootstrap
+
+visit: https://kayalsai.github.io/resume-ui/
 
